@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: Work in progress obvi</code>
-  header_feature_image: assets/img/pexels/hackathon18b.jpg
+  header_feature_image: assets/img/pexels/hackathon18.jpg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
