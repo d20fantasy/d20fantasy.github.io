@@ -9,7 +9,8 @@
                     <i class="fa fa-search-plus fa-3x"></i>
                 </div>
             </div>
-            <img src="{{ item.img | relative_url }}" class="" alt="">
+            <img src="{{ item.img | relative_url }}" class="" alt=""><br />
+            {{ item.title }}
         </a>
     </div>
     {% endfor %}
