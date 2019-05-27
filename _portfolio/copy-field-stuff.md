@@ -2,8 +2,8 @@
 layout: post
 title: Copy Field Name, Value, and Display Value
 img: "assets/img/portfolio/copy field stuff.gif"
-date: April, 08 2014
-tags: [QoL]
+date: April, 08 2019
+tags: [QoL,ServiceNow]
 ---
 
 ![image]({{ page.img | relative_url }})
