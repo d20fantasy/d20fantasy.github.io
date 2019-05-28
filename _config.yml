@@ -103,7 +103,7 @@ collections:
   postfolio:
     output: true
     permalink: /portfolio/:name
-    directory: /_posts/portfolio/
+    directory: /posts/portfolio/
 
 
 # BUILD SETTINGS
