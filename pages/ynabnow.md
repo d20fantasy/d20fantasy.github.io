@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "YNAB Now"
+title: "YNAB Now - Getting Started"
 permalink: /ynabnow.html
 hide: true
+tags: [YNAB,ServiceNow,Integration]
 ---
 
 # Getting Started
