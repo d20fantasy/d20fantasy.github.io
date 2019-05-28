@@ -2,17 +2,18 @@
 
 <div class="portfolio-grid">
     {% for item in site.posts %}
-    <div class="portfolio-cell">
-        <a href="{{ item.url | relative_url }}" class="portfolio-link" data-keyboard="true">
-            <div class="caption" title="{{ item.title }}">
-                <div class="caption-content">
-                    <i class="fa fa-search-plus fa-3x"></i>
-                </div>
-            </div>
-            <img src="{{ item.img | relative_url }}" class="" alt="">
-            <div style="text-align: center;">{{ item.title }}</div>
-			<div>{{ item.path }}</div>
-        </a>
-    </div>
+		{% if item.path contains '_posts/portfolio/' %}
+		<div class="portfolio-cell">
+			<a href="{{ item.url | relative_url }}" class="portfolio-link" data-keyboard="true">
+				<div class="caption" title="{{ item.title }}">
+					<div class="caption-content">
+						<i class="fa fa-search-plus fa-3x"></i>
+					</div>
+				</div>
+				<img src="{{ item.img | relative_url }}" class="" alt="">
+				<div style="text-align: center;">{{ item.title }}</div>
+			</a>
+		</div>
+		{% endif %}
     {% endfor %}
 </div>
