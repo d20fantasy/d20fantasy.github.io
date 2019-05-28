@@ -100,7 +100,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:name
-    relative_directory: '/_posts/portfolio/'
+    directory: "/_posts/portfolio/"
 
 
 # BUILD SETTINGS
