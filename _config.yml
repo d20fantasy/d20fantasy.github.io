@@ -100,9 +100,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:name
-  postfolio:
-    output: true
-    permalink: /portfolio/:name
     relative_directory: /_posts/portfolio/
 
 
