@@ -6,7 +6,7 @@ date: August, 23 2018
 tags: [App,ServiceNow]
 ---
 
-![image]({{ page.img | relative_url }})
+![Screenshot of the Raffle app in action]({{ page.img | relative_url }})
 
 For the 2018 UC Tech conference, there was a need for a raffle application<!--endexcerpt--> that would:
 

@@ -6,7 +6,7 @@ date: April, 29 2019
 tags: [QoL,ServiceNow]
 ---
 
-![image]({{ page.img | relative_url }})
+![Anigmated gif of Copy Table in action]({{ page.img | relative_url }})
 
 A simple Quality-of-Life enhancement I made for developers to be able to quickly copy the table name<!--endexcerpt--> of the currently viewed record to their clipboard for later use.
 

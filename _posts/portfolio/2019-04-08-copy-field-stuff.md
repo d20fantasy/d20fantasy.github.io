@@ -6,7 +6,7 @@ date: April, 08 2019
 tags: [QoL,ServiceNow]
 ---
 
-![image]({{ page.img | relative_url }})
+![Animated gif of Copy Field Name, Value, and Display Value in action]({{ page.img | relative_url }})
 
 I created a Quality-of-life enhancement for developers to be able to quickly "Copy Field Name", "Copy Field Value", or "Copy Field Display Value"<!--endexcerpt--> any form field to their clipboard for later use.
 

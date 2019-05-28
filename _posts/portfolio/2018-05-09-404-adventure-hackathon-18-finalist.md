@@ -6,7 +6,7 @@ date: May, 09 2018
 tags: [Knowledge,Hackathon,ServiceNow]
 ---
 
-![image]({{ page.img | relative_url }})
+![Image of Earl Duque presenting at Hackathon]({{ page.img | relative_url }})
 
 At ServiceNow's Knowledge 2018 conference, attended by 18,000+, I competed in the annual Hackathon.<!--endexcerpt--> Dozens of teams, comprised of one to three individuals each, raced to build a solution within eight hours entirely within the ServiceNow platform.
 

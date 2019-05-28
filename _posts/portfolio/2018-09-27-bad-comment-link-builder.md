@@ -6,7 +6,7 @@ date: September, 27 2018
 tags: [QoL,ServiceNow]
 ---
 
-![image]({{ page.img | relative_url }})
+![Screenshot of what the Bad Comment Link Builder looks like]({{ page.img | relative_url }})
 
 ### The problem
 
