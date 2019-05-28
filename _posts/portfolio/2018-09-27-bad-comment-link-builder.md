@@ -10,7 +10,7 @@ tags: [QoL,ServiceNow]
 
 ### The problem
 
-Whenever someone sends an e-mail into incident that has PII, PCI, Ferpa, or Hippa violations, we have to remove the comment. Instead of deleting the whole incident, we prefer to locate all the instances of the bad comment and redact just the inappropriate content so that the incident as a whole remains in tact. Looking for all the instances of it is straight forward enough (just follow this HI article) but it's time consuming going through all those tables and constructing the URLs manually.
+Whenever someone sends an e-mail into incident that has PII, PCI, Ferpa, or Hippa violations, we have to remove the comment. Instead of deleting the whole incident, we prefer to locate all the instances of the bad comment and redact<!--endexcerpt--> just the inappropriate content so that the incident as a whole remains in tact. Looking for all the instances of it is straight forward enough (just follow this HI article) but it's time consuming going through all those tables and constructing the URLs manually.
 
 ### A shortcut
 
