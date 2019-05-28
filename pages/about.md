@@ -12,3 +12,4 @@ The goal here is to have a continuous repo of things I've made: useful, fun, and
 
 I almost make a lot of dumb stuff, so good luck to you trying to wade through that.
  
+This site is powered by [Jekyll](https://jekyllrb.com/) with a customized version of [Type on Strap](https://github.com/sylhare/Type-on-Strap) by me.

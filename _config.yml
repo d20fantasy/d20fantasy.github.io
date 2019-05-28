@@ -14,10 +14,9 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: Work in progress obvi</code>
-  header_feature_image: assets/img/gallery/raphael-schaller-88040-unsplash.jpg
-  footer_text: >
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  header_text: For Fun and For Functional
+  header_feature_image: assets/img/gallery/404adventurecontroller.png
+  footer_text: Thanks for dropping by!
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
