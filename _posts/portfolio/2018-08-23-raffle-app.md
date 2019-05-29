@@ -2,7 +2,7 @@
 layout: post
 title: Raffle App
 img: "assets/img/portfolio/raffle.png"
-feature-img: "assets/img/portfolio/raffle.png"
+thumbnail: "assets/img/portfolio/raffle.png"
 date: August, 23 2018
 tags: [App,ServiceNow]
 ---
