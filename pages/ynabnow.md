@@ -8,6 +8,8 @@ tags: [YNAB,ServiceNow,Integration]
 
 # Getting Started
 
+This page assumes you have already installed the integration! If you haven't yet, install this [GitHub repo](https://github.com/earlduque/ynab-now) via studio.
+
 ## Get your access token
 
 This integration only works with personal access tokens right now. To get your access token, follow the instructions [here](https://api.youneedabudget.com/#personal-access-tokens).

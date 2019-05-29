@@ -3,7 +3,7 @@ layout: post
 title: JSON Résumé 
 img: "assets/img/portfolio/JSON Resume.png"
 date: January, 07 2019
-tags: [App,API,ServiceNow]
+tags: [App,ServiceNow,Scripted REST API,Service Portal]
 ---
 
 ![Screenshot of a REST Get request retrieving an online résumé]({{ page.img | relative_url }})

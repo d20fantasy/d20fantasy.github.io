@@ -3,7 +3,7 @@ layout: post
 title: Bad Comment Link Builder
 img: "assets/img/portfolio/BadCommentLinkBuilder.gif"
 date: September, 27 2018
-tags: [QoL,ServiceNow]
+tags: [QoL,ServiceNow,Service Portal]
 ---
 
 ![Screenshot of what the Bad Comment Link Builder looks like]({{ page.img | relative_url }})

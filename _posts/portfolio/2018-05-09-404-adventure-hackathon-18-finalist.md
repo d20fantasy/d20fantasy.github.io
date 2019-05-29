@@ -3,7 +3,7 @@ layout: post
 title: 404 Adventure - Hackathon '18 Finalist
 img: "assets/img/portfolio/Hackathon18a.jpg"
 date: May, 09 2018
-tags: [Knowledge,Hackathon,ServiceNow]
+tags: [Knowledge,Hackathon,ServiceNow,Service Portal]
 ---
 
 ![Image of Earl Duque presenting at Hackathon]({{ page.img | relative_url }})

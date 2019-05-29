@@ -8,13 +8,13 @@ description: "The blog and portfolio for Earl Duque, ServiceNow administrator an
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Earl Duque //Blog and Portfolio # blog's title
+  title: Earl Duque # blog's title
   avatar: assets/img/face.jpeg
   favicon: assets/face.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: For Fun and For Functional
+  header_text: //Blog and Portfolio
   header_feature_image: assets/img/gallery/404adventurecontroller.png
   footer_text: Thanks for dropping by!
 
