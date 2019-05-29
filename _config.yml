@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: //Blog and Portfolio
   header_feature_image: assets/img/gallery/404adventurecontroller.png
-  footer_text: Thanks for dropping by!
+  footer_text: Thanks for dropping by earlduque.com!
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
