@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEO Automatic Sitemap generator
+title: SEO Automatic Sitemap Generator
 img: "assets/img/portfolio/SEO Result.png"
 tags: [ServiceNow,App,Scripted REST API,SEO]
 ---
@@ -10,6 +10,8 @@ tags: [ServiceNow,App,Scripted REST API,SEO]
 In an effort to optimize our Service Portal for SEO (Search Engine Optimization) I created a page via the Scripted REST API that would automatically generate an XML sitemap for ingestion by search engine bots like Google and Bing. <!--endexcerpt-->
 
 You can see an example result in the above screenshot; Navigating to `https://INSTANCE.service-now.com/api/uocd2/seo` triggers a script that builds an entire sitemap of all available public Service Portal pages, including every knowledge base category, knowledge base article, and service catalog category/details page. Since it is generated at the time of the request, the sitemap is always up-to-date for the search engine.
+
+For our Service Portal, that is more than 3500 pages (and growing) provided in the sitemap, along with predicted expiration dates for each page. With such a large amount of pages, having an automatically generated XML sitemap is invaluable.
 
 In the first four months of the implementation, our production instance's sitemap has been crawled over 1000 times.
 
