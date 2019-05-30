@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 
+title: Service Portal Favorites
 img: "assets/img/portfolio/Service Portal Favorites 3.PNG"
-date: 
 tags: [ServiceNow,Service Portal]
 ---
 
