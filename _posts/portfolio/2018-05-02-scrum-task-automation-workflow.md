@@ -26,3 +26,9 @@ Story creators are now able to designate up to five expected scrum tasks. Once t
 Additionally, the workflow can be stopped manually and it automatically stops if a testing task is marked as failed.
 
 The ability to template our scrum tasks is especially useful as our story process always includes specific steps for testing and quality assurance. And now, when one task concludes, the next responsible person/group is immediately notified, reducing the time-to-story-completion.
+
+## Developer Tip
+
+The reason why the workflow runs a script to create the scrum task is because of how workflow contexts handle the `Create Task` activity when the workflow context is restarted or when the current workflow context is cancelled and a new context is started: Repeated "Create Tasks" even in new contexts will simply re-target the previously created task, instead of making a new one.
+
+Our intent was to always keep historical record of all scrum tasks, regardless of if they failed or were cancelled. Creating the scrum task via a `Run Script` activity ensures that the generated task is always a new record. After all, the person who performs this round of scrum tasks might be different than the previous round, but we didn't want the last round to lose credit of their task completions.
