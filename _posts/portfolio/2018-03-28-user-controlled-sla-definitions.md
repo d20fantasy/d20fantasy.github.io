@@ -9,7 +9,7 @@ Within our instance of ServiceNow, we have more than 20 separately governed orga
 
 Any time a new help desk wanted different timings on the notifications or different recipients of the notifications, we would have to create a new SLA Definition workflow. We wanted to pass this power off to department administrators, but granting workflow_admin to users just for this purpose creates too many security risks just to provide a convenience.
 
-My colleage, Kevin Loenker, and I came up with this form enhancement and edit to the default SLA workflow:
+My colleague, Kevin Loenker, came up with this idea for a form enhancement and I figured out the back-end adjustment to the default SLA workflow:
 
 ![Screenshot of SLA Definition Notification Section](/assets/img/portfolio/SLA Definition Notification Form.PNG)
 
