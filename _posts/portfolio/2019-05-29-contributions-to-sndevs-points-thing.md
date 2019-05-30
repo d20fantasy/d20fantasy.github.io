@@ -10,7 +10,7 @@ tags: [ServiceNow,Slack]
 `Points Thing` is a bot on the [SNDevs](https://sndevs.com/) Slack workspace. Users in this workspace are able to offer points to users for helping answer a question, contributing to the community, or any other reason needing positive-reinforcement.<!--endexcerpt-->
 
 The bot has had around six contributors so far and anyone is encouraged to fork [the source repo](https://github.com/ServiceNowDevProgram/sn-slack-points-thing), intall the app via studio, create a feature branch, commit a change, and then in GitHub submit a pull request to the `ServiceNowDevProgram/sn-slack-points-thing` master. 
-*Collaborative projects are the best projects!*
+*Collaborative projects are the best projects!* Shout out to [@j4rodm](https://twitter.com/j4rodm), [@caseybarela](https://twitter.com/caseybarela), and [@andrewjbarnes](https://twitter.com/Andrewjbarnes) for keeping the dream alive.
 
 Here are my contributions so far:
 
