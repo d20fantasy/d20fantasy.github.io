@@ -5,7 +5,7 @@ img: "assets/img/portfolio/Service Portal Favorites 3.PNG"
 tags: [ServiceNow,Service Portal]
 ---
 
-We thought it would be useful for users to be able to be able to save _any_ page in the Service Portal as a "favorite" page for later access.
+We thought it would be useful for users to be able to be able to save _any_ page in the Service Portal as a "favorite" page for later access.<!--endexcerpt-->
 
 I was able to add a button to the header menu:
 
