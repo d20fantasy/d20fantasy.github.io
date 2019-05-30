@@ -2,7 +2,7 @@
 layout: post
 title: User-controlled SLA Definition Notifications
 img: "assets/img/portfolio/SLA Definition Workflow.PNG"
-tags: [ServiceNow,Enhancement]
+tags: [ServiceNow,Enhancement,Workflow]
 ---
 
 Within our instance of ServiceNow, we have more than 20 separately governed organizations with different standards and expectations for their Service Level Agreements...<!--endexcerpt-->

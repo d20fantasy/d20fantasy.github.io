@@ -2,7 +2,7 @@
 layout: post
 title: Scrum Task Automation Workflow
 img: "assets/img/portfolio/Scrum Task Workflow.PNG"
-tags: [ServiceNow,Workflow,QoL]
+tags: [ServiceNow,Workflow,Enhancement,QoL]
 ---
 
 ![Scrum Task Automation Workflow]({{ page.img | relative_url }})

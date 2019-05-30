@@ -2,7 +2,7 @@
 layout: post
 title: Timed Approval Reminders
 img: "assets/img/portfolio/Timed Approval Reminders.PNG"
-tags: [ServiceNow,Workflow]
+tags: [ServiceNow,Workflow,Enhancement]
 ---
 
 ![Screenshot of Workflow]({{ page.img | relative_url }})
