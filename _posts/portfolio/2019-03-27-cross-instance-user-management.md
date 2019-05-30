@@ -2,7 +2,7 @@
 layout: post
 title: Cross Instance User Management
 img: "assets/img/portfolio/Cross Instance User Management.PNG"
-tags: [ServiceNow,Scripted REST Api]
+tags: [ServiceNow,Scripted REST API]
 ---
 
 Whenever a new user wants to be added to our instance of ServiceNow, their manager submits a ServiceNow request to the Service Management team and the new user is first added to a "learning" instance to be trained. To speed up the time-to-completion of adding the user to the separate instance, I automated it via the Scripted REST API.<!--endexcerpt-->
