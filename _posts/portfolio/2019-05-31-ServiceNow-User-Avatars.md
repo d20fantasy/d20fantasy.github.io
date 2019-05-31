@@ -9,7 +9,7 @@ tags: [ServiceNow,Integration,App]
 
 #### What is it?
 
-The **Avatars** application generates avatars for user records. Say goodbye to boring Initials!
+The **Avatars** application generates avatars for user records. Say goodbye to boring Initials!<!--endexcerpt-->
 
 > x_snc_avatars.Avatar().get(String sys_id, String sprite_collection);
 
