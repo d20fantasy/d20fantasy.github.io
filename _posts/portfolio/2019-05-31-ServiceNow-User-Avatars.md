@@ -28,13 +28,13 @@ The **Avatars** application generates avatars for user records. Say goodbye to b
 
 #### Available Sprite Collections (with three random examples)
 
-- male <img src="https://avatars.dicebear.com/v2/male/seed.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/male/seed2.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/male/seed3.svg" style="width:50px;"/>
-- female <img src="https://avatars.dicebear.com/v2/female/seed.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/female/seed2.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/female/seed5.svg" style="width:50px;"/>
-- identicon <img src="https://avatars.dicebear.com/v2/identicon/seed.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/identicon/seed2.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/identicon/seed3.svg" style="width:50px;"/>
-- bottts <img src="https://avatars.dicebear.com/v2/bottts/seed.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/bottts/seed2.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/bottts/seed3.svg" style="width:50px;"/>
-- avataaars <img src="https://avatars.dicebear.com/v2/avataaars/seed.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/avataaars/seed2.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/avataaars/seed3.svg" style="width:50px;"/>
-- jdenticon <img src="https://avatars.dicebear.com/v2/jdenticon/seed.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/jdenticon/seed2.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/jdenticon/seed3.svg" style="width:50px;"/>
-- gridy <img src="https://avatars.dicebear.com/v2/gridy/seed.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/gridy/seed2.svg" style="width:50px;"/> <img src="https://avatars.dicebear.com/v2/gridy/seed3.svg" style="width:50px;"/>
+- male ![male](https://avatars.dicebear.com/v2/male/seed.svg =50x50)
+- female 
+- identicon 
+- bottts 
+- avataaars 
+- jdenticon 
+- gridy 
 
 #### System Properties
 
