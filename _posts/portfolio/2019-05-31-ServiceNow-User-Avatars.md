@@ -26,15 +26,9 @@ The **Avatars** application generates avatars for user records. Say goodbye to b
 - Business Rule that will generate an avatar for new user records as they are created.
 - System Properties that allow you further customize how it runs, organized into a system property category that will appear as `Avatar Properties` within the `System UI` Application in the navigation menu.
 
-#### Available Sprite Collections (with three random examples)
+#### Available Sprite Collections with examples
 
-- male ![male](https://avatars.dicebear.com/v2/male/seed.svg =50x50)
-- female 
-- identicon 
-- bottts 
-- avataaars 
-- jdenticon 
-- gridy 
+![Sprite set examples](/assets/img/portfolio/Sprite Sets.png)
 
 #### System Properties
 
@@ -51,5 +45,5 @@ The application is available on [the share website](https://developer.servicenow
 
 #### Attribution
 
-- Avatars are provided via API at https://avatars.dicebear.com/
+- Avatars are provided via API at [https://avatars.dicebear.com/](https://avatars.dicebear.com/)
 - ServiceNow Integration created by Earl Duque
