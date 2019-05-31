@@ -24,6 +24,7 @@ The **Avatars** application generates avatars for user records. Say goodbye to b
 - User form UI Action that allows you to generate an avatar for the current user record (Requires the user_admin role). The generated avatar is based on the user's gender and sys_id. Will always produce the same result.
 - User form UI Action that allows you to generate a completely random avatar regardless of gender and sys_id. Will always produce a different result.
 - Business Rule that will generate an avatar for new user records as they are created.
+- Script Executor that can be run which will generate an avatar for every user record that doesn't already have a photo.
 - System Properties that allow you further customize how it runs, organized into a system property category that will appear as `Avatar Properties` within the `System UI` Application in the navigation menu.
 
 #### Available Sprite Collections with examples
