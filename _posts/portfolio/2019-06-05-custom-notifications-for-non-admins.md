@@ -5,7 +5,7 @@ img: "assets/img/portfolio/Custom Notifications - Result.png"
 tags: [ServiceNow,Enhancement]
 ---
 
-I was able to make it so that users with catalog access are now able to update notifications on the fly without having full access to the notifications table<!--endexcerpt-->:
+With an idea from our analyst, Robert Weibezahl, I was able to make it so that users with catalog access are now able to update notifications on the fly without having full access to the notifications table<!--endexcerpt-->:
 
 ![Resulting notification with substituted variables](/assets/img/portfolio/Custom Notifications - Form.png)
 
