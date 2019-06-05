@@ -9,7 +9,7 @@ With an idea from our analyst, Robert Weibezahl, I was able to make it so that u
 
 ![Resulting notification with substituted variables](/assets/img/portfolio/Custom Notifications - Form.png)
 
-Users can go to a catalog item form (see above) and update the notification that is sent to the user at their own discrection. They are even able to use `\{\{variable_name\}\}` in the message body and it will automatically insert the value of the catalog item variable of the same name. They can .dot-walk down a level, too!
+Users can go to a catalog item form (see above) and update the notification that is sent to the user at their own discretion. They are even able to use `variable_name` (wrapped in double curly braces) in the message body and it will automatically insert the value of the catalog item variable of the same name. They can .dot-walk down a level, too!
 
 The final e-mail from the above example looks like this:
 
@@ -18,7 +18,7 @@ The final e-mail from the above example looks like this:
 ### Structure
 
 1. A catalog admin inputs a message body onto the catalog item itself
-2. The catalog item workflow creates an event action that passes the recipients in parameter 1 and the sys_req_item number in parameter 2.
+2. The catalog item workflow creates an event action that passes the recipients in parameter 1 and the sys_req_item sys_id in parameter 2.
 3. The event triggers a notification that sends the message to everyone in event.parm1 and runs the following mail_script for the message body:
 
 ```
@@ -35,8 +35,8 @@ The final e-mail from the above example looks like this:
 				var variable_name = found_variables[i].replace(/\{|\}/g,""); //remove { and }
 				if (variable_name.indexOf('.') != -1){
 					var dot_walking = variable_name.split('.'); //if the variable name is an attempt to dot walk
-					message_body = message_body.replace(found_variables[i],sc_req_item_gr.variables[dot_walking[0]][dot_walking[1]].getDisplayValue()); //replace {{variable.subvariable}} with value
-				} else message_body = message_body.replace(found_variables[i],sc_req_item_gr.variables[variable_name].getDisplayValue()); //replace {{variable}} with value
+					message_body = message_body.replace(found_variables[i],sc_req_item_gr.variables[dot_walking[0]][dot_walking[1]].getDisplayValue()); //replace variable.subvariable with value
+				} else message_body = message_body.replace(found_variables[i],sc_req_item_gr.variables[variable_name].getDisplayValue()); //replace variable with value
 			}
 			template.print(message_body);
 		}
