@@ -9,7 +9,7 @@ With an idea from our analyst, Robert Weibezahl, I was able to make it so that u
 
 ![Resulting notification with substituted variables](/assets/img/portfolio/Custom Notifications - Form.png)
 
-Users can go to a catalog item form (see above) and update the notification that is sent to the user on-the-fly. They are even able to use `{{variable_name}}` in the message body and it will automatically insert the value of the catalog item variable of the same name. They can .dot-walk down a level, too!
+Users can go to a catalog item form (see above) and update the notification that is sent to the user at their own discrection. They are even able to use `\{\{variable_name\}\}` in the message body and it will automatically insert the value of the catalog item variable of the same name. They can .dot-walk down a level, too!
 
 The final e-mail from the above example looks like this:
 
