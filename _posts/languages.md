@@ -13,6 +13,7 @@
 - CSS
 - VBA
 - Markdown
+- AutoHotKey
 
 ### Limited
 
