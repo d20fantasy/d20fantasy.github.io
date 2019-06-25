@@ -55,10 +55,10 @@ Key
         2.  <span style="text-decoration: underline;">Choose</span> any **Class Features** at this point (denoted by a blue exclamation point)
         3.  <span style="text-decoration: underline;">Choose</span> your **Spells** if you have any
 4.  <span style="font-size: 18px;">Ability Scores</span>
-    1.  <span style="text-decoration: underline;"><span style="font-size: 14px;">Change</span></span><span style="font-size: 14px;"> **Choose a Generation Method** to "Point Buy"</span>
-    2.  <span style="font-size: 14px; color: #999999;">Alright, ability scores is a lot different now. </span>
+    1.  <span style="text-decoration: underline;">Change</span> **Choose a Generation Method** to "Point Buy"
+    2.  <span style="color: #999999;">Alright, ability scores is a lot different now. </span>
         1.  <span style="color: #999999;">You can only choose scores up to 15 now (15 is actually quite good now). While it was fun to roll 18s and stuff, if you noticed earlier, your attributes will go up over time (as opposed to 1E where they were pretty much fixed) _and_ race selection always adds to the number. So you might get 18 eventually!</span> 
-        2.  <span style="font-size: 14px; color: #999999;">Ability scores are almost entirely about the "Modifier" that comes with it now. Eg. if you are a fighter, a 15 in strength means you roll +2 to everything regarding attacks. +2 intelligence modifier for magic-users means +2 to everything about spells, etc.</span>
+        2.  <span style="color: #999999;">Ability scores are almost entirely about the "Modifier" that comes with it now. Eg. if you are a fighter, a 15 in strength means you roll +2 to everything regarding attacks. +2 intelligence modifier for magic-users means +2 to everything about spells, etc.</span>
         3.  <span style="color: #999999;">8 or 9 ability is -1 modifier  
             10 or 11 ability is +0 modifier  
             12 or 13 ability is +1 modifier  
