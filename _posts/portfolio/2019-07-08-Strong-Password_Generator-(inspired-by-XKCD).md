@@ -9,7 +9,7 @@ tags: [ServiceNow,App]
 
 #### What is it?
 
-Based on the XKCD comic above: ![https://xkcd.com/936/](https://xkcd.com/936/)
+Based on the XKCD comic above: [https://xkcd.com/936/](https://xkcd.com/936/)
 
 This small application will automatically generate a random string of words to be used for easy to recite/remember passwords.
 
