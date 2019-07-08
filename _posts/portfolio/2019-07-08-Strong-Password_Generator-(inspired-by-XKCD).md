@@ -9,15 +9,15 @@ tags: [ServiceNow,App]
 
 #### What is it?
 
-Based on the XKCD comic above: https://xkcd.com/936/
+Based on the XKCD comic above: ![https://xkcd.com/936/](https://xkcd.com/936/)
 
-This small application will automatically generate a random string of words to be used for easy to recite/remember passwords
+This small application will automatically generate a random string of words to be used for easy to recite/remember passwords.
 
-Example of result: `ConditionQuicklyFloorVoice`
+Example of result: `ConditionQuicklyFloorVoice`.
 
 ![Example Result](/assets/img/portfolio/Strong Password Generator.png)
 
-Example of when to use: A presentor displays the password "SmallChallengeRiseInterview" on screen for the audience to see, the audience then goes onto their device, navigates to the input page and types in "SmallChallengeRiseInterview" to be given access to the record.
+Example of when to use: A presenter displays the password "SmallChallengeRiseInterview" on screen for the audience to see, the audience then goes onto their device, navigates to the input page and types in "SmallChallengeRiseInterview" to be given access to the record.<!--endexcerpt-->
 
 #### Where to get it
 
