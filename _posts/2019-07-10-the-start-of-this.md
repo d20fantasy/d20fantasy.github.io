@@ -6,4 +6,4 @@ tags: [Misc]
 
 # Welcome to the site
 
-I will be adding as much as I can to this site. I hope you like ServiceNow :P
+I will be adding as much as I can to this site. Roll for initiative!
