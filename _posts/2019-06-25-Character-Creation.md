@@ -5,6 +5,8 @@ img:
 tags: [Start]
 ---
 
+For you suckers that have decided to join this campaign <!--endexcerpt-->
+
 <span style="font-size: 24px;">Create a character</span>
 
 *   You should have chosen "Create a character" when you were sent the invite link
