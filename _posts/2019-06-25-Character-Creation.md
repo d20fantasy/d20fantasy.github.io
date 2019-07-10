@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "D20Fantasy Character Creation"
-permalink: /d20fantasycc.html
-hide: true
+layout: post
+title: 
+img: 
+tags: [Start]
 ---
 
 <span style="font-size: 24px;">Create a character</span>

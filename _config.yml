@@ -1,44 +1,44 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://d20fantasy.github.io/"
-title: Earl Duque //Blog and Portfolio # site's title
-description: "The blog and portfolio for Earl Duque, ServiceNow administrator and developer" # used by search engines
+title: D20Fantasy - Always be... # site's title
+description: "The chronicles and information repository for the D20Fantasy Dungeons and Dragons campaign." # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Earl Duque # blog's title
-  avatar: assets/img/face.jpeg
+  title: D20Fantasy # blog's title
+  avatar: assets/img/d20fantasy.jpeg
   favicon: assets/face.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: //Blog and Portfolio
-  header_feature_image: assets/img/gallery/404adventurecontroller.png
-  footer_text: Thanks for dropping by earlduque.com!
+  header_text: Adventure Chronicle
+  header_feature_image: assets/img/gallery/d20fantasyl.png
+  footer_text: Thanks for dropping by d20fantasy.com!
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: earl@earlduque.com # Full email address, e.g. "sam@example.com"
+  email_address: dm@d20fantasy.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "earlduque"
+  github: 
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/earl-duque-0574144b/ # Full URL
+  linkedin: # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: # Full URL
   steam:
   tumblr:
-  twitter: earliodookie # "twitter username"
+  twitter: d20fantasy # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -52,7 +52,7 @@ theme_settings:
     pinterest:
     pocket:
     reddit: true
-    linkedin: true
+    linkedin: false
     wordpress:
     email: true
 
