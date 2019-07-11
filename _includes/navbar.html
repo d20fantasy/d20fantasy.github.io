@@ -1,63 +1,75 @@
 <header class="site-header">
-    
     <!-- Logo and title -->
-	<div class="branding">
-		<a href="{{ '/' | relative_url }}">
-			<img alt="logo img" class="avatar" src="{{ site.theme_settings.avatar | relative_url }}" />
-		</a>
-
-		<h1 class="site-title">
-			<a aria-label="{{ site.theme_settings.title }}" href="{{ '/' | relative_url }}">
-        {{ site.theme_settings.title }}
-      </a>
-		</h1>
-	</div>
-    
+    <div class="branding">
+        <a href="{{ '/' | relative_url }}">
+        <img alt="logo img" class="avatar" src="{{ site.theme_settings.avatar | relative_url }}" />
+        </a>
+        <h1 class="site-title">
+            <a aria-label="{{ site.theme_settings.title }}" href="{{ '/' | relative_url }}">
+            {{ site.theme_settings.title }}
+            </a>
+        </h1>
+		<ul>
+			<li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Barrett" href="\assets\pdf\Barrett-3.pdf">
+                DNDB-Campaign
+                </a>
+            </li>
+			<li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Tal" href="\assets\pdf\Tal-3.pdf">
+                DNDB-Campaign
+                </a>
+            </li>
+			<li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Zeke" href="\assets\pdf\Zeke-3.pdf">
+                DNDB-Campaign
+                </a>
+            </li>
+		</ul>
+    </div>
     <!-- Toggle menu -->
     <nav class="clear">
-    <a aria-label="pull" id="pull" class="toggle" href="#">
-    <i class="fa fa-bars fa-lg"></i>
-    </a>
-    
-    <!-- Menu -->
-    <ul class="hide">
-        <!-- Auto Generation of NORMAL pages in the navbar -->
-        {% assign name_page = "" %}
-        
-        {% for page in site.pages %}
-        {% if page.title and page.hide != true %}
-        {% if name_page contains page.title %}
-        {% else %}
-        <li class="separator"> | </li>
-        <li>
-            <a class="clear" aria-label="{{ page.title }}" href="{{ page.url | relative_url }}">
-                {{ page.title }}
-            </a>
-        </li>
-        {% endif %}
-        {% assign name_page = page.title | append: name_page %}
-        {% endif %}
-        {% endfor %} 
-        
-		<li class="separator"> | </li>
-        <li>
-            <a class="clear" aria-label="Résumé" href="https://www.dndbeyond.com/campaigns/523350">
-                DNDB-Campaign
-            </a>
-        </li>
-		
-        <!-- Auto Generation of SPECIAL pages in the navbar -->
-        {% for item in site.theme_settings.special_page %}
-          {% if item[1].enabled %}
+        <a aria-label="pull" id="pull" class="toggle" href="#">
+        <i class="fa fa-bars fa-lg"></i>
+        </a>
+        <!-- Menu -->
+        <ul class="hide">
+            <!-- Auto Generation of NORMAL pages in the navbar -->
+            {% assign name_page = "" %}
+            {% for page in site.pages %}
+            {% if page.title and page.hide != true %}
+            {% if name_page contains page.title %}
+            {% else %}
             <li class="separator"> | </li>
             <li>
-              <a class="clear" href="{{ item[0] | relative_url }}" aria-label="{{ item[0] }}">
-                <i class="fa fa-{{ item[1].icon }}" aria-hidden="true"></i>
-              </a>
+                <a class="clear" aria-label="{{ page.title }}" href="{{ page.url | relative_url }}">
+                {{ page.title }}
+                </a>
             </li>
-          {% endif %}
-        {% endfor %}
-    </ul>
-        
-	</nav>
+            {% endif %}
+            {% assign name_page = page.title | append: name_page %}
+            {% endif %}
+            {% endfor %} 
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" aria-label="Résumé" href="https://www.dndbeyond.com/campaigns/523350">
+                DNDB-Campaign
+                </a>
+            </li>
+            <!-- Auto Generation of SPECIAL pages in the navbar -->
+            {% for item in site.theme_settings.special_page %}
+            {% if item[1].enabled %}
+            <li class="separator"> | </li>
+            <li>
+                <a class="clear" href="{{ item[0] | relative_url }}" aria-label="{{ item[0] }}">
+                <i class="fa fa-{{ item[1].icon }}" aria-hidden="true"></i>
+                </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
 </header>

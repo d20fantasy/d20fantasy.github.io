@@ -6,10 +6,17 @@ feature-img: "assets/img/gallery/the_value_of.jpg"
 tags: [Misc]
 ---
 
-My name is Earl Duque, ServiceNow System Administrator and Lead Developer at UC Davis Informational and Educational Technology.
+This is the website for D20Fantasy, a group of four dumb-asses playing Dungeons and Dragons and for some reason recording it so other people can listen to our attempts to do some cooperative story telling.
 
-The goal here is to have a continuous log of things I've made: useful, fun, and anything and everything in between.
+We are playing a very-slightly home-brewed version of Dungeons and Dragons 5th Edition.
 
-I almost make a lot of dumb stuff, so good luck to you trying to wade through that.
+- Barret is played by Ben
+- Tal is played by Obie
+- Zeke is played by Dennis
+- and the DM is played by Earl
+
+Please don't have high expecations of us. We're trying, okay?
+
+Contact us at player-name@d20fantasy.com
  
 ###### This site is powered by [Jekyll](https://jekyllrb.com/) with [Type on Strap](https://github.com/sylhare/Type-on-Strap) and customizations by me.
