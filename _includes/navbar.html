@@ -33,6 +33,12 @@
 					Zeke
 					</a>
 				</li>
+				<li class="separator"> | </li>
+				<li>
+					<a class="clear" aria-label="Résumé" href="https://www.dndbeyond.com/campaigns/523350">
+					Campaign
+					</a>
+				</li>
 			</ul>
 		</nav>
     </div>
@@ -59,12 +65,6 @@
             {% assign name_page = page.title | append: name_page %}
             {% endif %}
             {% endfor %} 
-            <li class="separator"> | </li>
-            <li>
-                <a class="clear" aria-label="Résumé" href="https://www.dndbeyond.com/campaigns/523350">
-                DNDB-Campaign
-                </a>
-            </li>
             <!-- Auto Generation of SPECIAL pages in the navbar -->
             {% for item in site.theme_settings.special_page %}
             {% if item[1].enabled %}

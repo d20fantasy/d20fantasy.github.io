@@ -1,8 +1,9 @@
 ---
-layout: pdf
-title: Tal
-permalink: /pc/Tal/
+layout: page
+title: Barrett
+permalink: /pc/barrett/
 tags: [PC]
+hide: true
 ---
 
 <iframe src="/assets/pdf/Tal-3.pdf" width="100%" height="100%"></iframe>
