@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/gallery/theforceiswithus.jpg"
+feature-img: "assets/img/gallery/DM Earl - Roll for initiative.jpg"
 tags: [Misc]
 ---
 
@@ -14,6 +14,8 @@ We are playing a very-slightly home-brewed version of Dungeons and Dragons 5th E
 - Tal is played by Obie
 - Zeke is played by Dennis
 - and the DM is played by Earl
+
+![The group](assets/img/gallery/theforceiswithus.jpg)
 
 Please don't have high expecations of us. We're trying, okay?
 
