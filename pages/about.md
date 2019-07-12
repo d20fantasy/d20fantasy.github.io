@@ -15,7 +15,7 @@ We are playing a very-slightly home-brewed version of Dungeons and Dragons 5th E
 - Zeke is played by Dennis
 - and the DM is played by Earl
 
-![The group](assets/img/gallery/theforceiswithus.jpg)
+![The group](/assets/img/gallery/theforceiswithus.jpg)
 
 Please don't have high expecations of us. We're trying, okay?
 
