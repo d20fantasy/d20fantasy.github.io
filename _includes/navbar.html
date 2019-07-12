@@ -29,16 +29,18 @@
                 {{ page.title }}
                 </a>
             </li>
+            {% endif %}
+            {% assign name_page = page.title | append: name_page %}
+            {% endif %}
+            {% endfor %} 
+			
 			<li class="separator"> | </li>
 			<li>
 				<a class="clear" aria-label="Résumé" href="https://www.dndbeyond.com/campaigns/523350">
 				Campaign
 				</a>
 			</li>
-            {% endif %}
-            {% assign name_page = page.title | append: name_page %}
-            {% endif %}
-            {% endfor %} 
+			
             <!-- Auto Generation of SPECIAL pages in the navbar -->
             {% for item in site.theme_settings.special_page %}
             {% if item[1].enabled %}
