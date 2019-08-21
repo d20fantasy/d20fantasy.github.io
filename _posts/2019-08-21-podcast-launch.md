@@ -13,11 +13,11 @@ We have maybe already six episodes worth of material recorded, we'll be releasin
 Woohoo!
 
 <div>
-	<a href="https://podcasts.apple.com/us/podcast/d20-fantasy/id1477024165" target="_blank">![Listen on Apple Podcasts](/assets/img/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg)</a>
+	<a href="https://podcasts.apple.com/us/podcast/d20-fantasy/id1477024165" target="_blank"><img src="http://d20fantasy.com/assets/img/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg" height="45px"></a>
 </div>
 <div>
-	<a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iitvc23olec4es74oeuwardsz6u?t%3DD20_Fantasy%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16" target="_blank">![Listen on Google Play Music](/assets/img/google-play-badge.png)</a>
+	<a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iitvc23olec4es74oeuwardsz6u?t%3DD20_Fantasy%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16" target="_blank"><img src="http://d20fantasy.com/assets/img/google-play-badge.png" height="45px"></a>
 </div>
 <div>
-	<a href="https://open.spotify.com/show/4yy4dMJFYIndXAqIx4CCAC" target="_blank">![Listen on Spotify](/assets/img/spotify-podcast-badge-blk-grn-330x80.svg)</a>
+	<a href="https://open.spotify.com/show/4yy4dMJFYIndXAqIx4CCAC" target="_blank"><img src="http://d20fantasy.com/assets/img/spotify-podcast-badge-blk-grn-330x80.svg" height="45px"></a>
 </div>
