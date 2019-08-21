@@ -9,13 +9,13 @@ description: "The chronicles and information repository for the D20Fantasy Dunge
 theme_settings:
   # Meta
   title: D20Fantasy # blog's title
-  avatar: assets/img/gallery/d20.png
+  avatar: assets/img/gallery/d20 avatar.png
   favicon: assets/d20.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: Adventure Chronicle
-  header_feature_image: assets/img/gallery/d20fantasyl.png
+  header_feature_image: assets/img/gallery/PodcastLogo.png
   footer_text: Thanks for dropping by d20fantasy.com!
 
   # Icons
