@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: Adventure Chronicle
-  header_feature_image: assets/img/gallery/PodcastLogo.png
+  header_feature_image: assets/img/gallery/PodcastLogo.jpg
   footer_text: Thanks for dropping by d20fantasy.com!
 
   # Icons
